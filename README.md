@@ -2,6 +2,23 @@
 
 A practical Natural Language Processing project for classifying tweet sentiment. The pipeline covers text cleaning, exploratory analysis, feature engineering, and supervised learning models to distinguish non‑toxic tweets from toxic ones.
 
+---
+
+<img width="422" height="274" alt="Screenshot 2025-09-26 at 20 48 03" src="https://github.com/user-attachments/assets/aed31c27-154a-4025-ae8c-9527fa0923e8" />
+<img width="415" height="266" alt="Screenshot 2025-09-26 at 20 48 16" src="https://github.com/user-attachments/assets/69464528-d19a-4eb3-9667-dacc9744a683" />
+
+---
+
+<img width="337" height="341" alt="Screenshot 2025-09-26 at 20 48 27" src="https://github.com/user-attachments/assets/6f9bbe06-4aff-4a42-a0af-c2548a77df51" />
+
+---
+
+<img width="649" height="213" alt="Screenshot 2025-09-26 at 20 48 55" src="https://github.com/user-attachments/assets/6bc62463-1330-425c-a54c-d7f5ad43465d" />
+<img width="642" height="214" alt="Screenshot 2025-09-26 at 20 49 03" src="https://github.com/user-attachments/assets/08818412-ce66-490a-a8b1-21824b4ba2c4" />
+
+
+
+
 ## Objective
 
 Detect hate speech in tweets. Label `1` denotes a racist/sexist tweet, and label `0` denotes not racist/sexist. Models are evaluated primarily with F1‑score.
