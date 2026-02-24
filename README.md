@@ -340,7 +340,11 @@ The hardest problem in content moderation is not the model - it is defining the 
 
 If you are working on content moderation, NLP classification, or Trust and Safety infrastructure, I would enjoy the conversation.
 
-Feedback on the preprocessing choices, the class imbalance handling, or the model selection rationale is especially welcome. Connect on [LinkedIn](#) or open an issue on this repo.
+Feedback on the preprocessing choices, the class imbalance handling, or the model selection rationale is especially welcome.
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/1adityakadam)
+- 📁 [More Projects](https://www.github.com/1adityakadam)
+- 📧 [Email](mailto:askadam@iu.edu)
 
 ---
 
